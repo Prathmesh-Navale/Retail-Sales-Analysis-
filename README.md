@@ -1,14 +1,20 @@
 -------Retail Sales Analysis(SQL Project)--------
+
 Project Overview:
+
 Title:
        Retail Sales Analysis
 DataBase:
       retail_analysis
 
 Objective:
+
       1) Understand Sales Performance Over Time : Analyze sales trends over months to identify high-performing periods.
+      
       2) Evaluate Product Category Effectiveness : Determine which categories generate the highest revenue.
+      
       3) Analyze Customer Demographics : Understand the impact of gender and age on purchasing behavior.
+      
       4) Data Quality and Integrity Check :  Identify and handle missing or incorrect values.
 
 
