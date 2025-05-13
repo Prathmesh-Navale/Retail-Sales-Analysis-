@@ -1,7 +1,7 @@
 -------Retail Sales Analysis(SQL Project)--------
 Project Overview:
 Title:
-      Retail Sales Analysis
+       Retail Sales Analysis
 DataBase:
       retail_analysis
 
